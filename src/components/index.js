@@ -1,1 +1,2 @@
-export * from './Layout/Layout';
+export { Layout } from './Layout/Layout';
+export { Burger } from './Burger/Burger';
